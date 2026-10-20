@@ -14,6 +14,6 @@ file_link: [Coffee Shop Sales.xlsx](<files/1. Coffee Shop Sales.xlsx>)
 
 file_link: [Retail Shop.xlsx](<files/2. Retail Shop.xlsx>)
 
-![Retail](<scr/Retail Shop.png>)
+![retail](<scr/Retail Shop.png>)
 
 ---
